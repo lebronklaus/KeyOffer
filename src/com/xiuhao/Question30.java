@@ -12,26 +12,13 @@ public class Question30 {
 
     public static void main(String[] args) {
         push(3);
-        System.out.println("top: "+top());
-        System.out.println("min: "+min());
         push(4);
-        System.out.println("top: "+top());
-        System.out.println("min: "+min());
         push(2);
-        System.out.println("top: "+top());
-        System.out.println("min: "+min());
         push(1);
-        System.out.println("top: "+top());
-        System.out.println("min: "+min());
         pop();
-        System.out.println("top: "+top());
-        System.out.println("min: "+min());
         pop();
-        System.out.println("top: "+top());
-        System.out.println("min: "+min());
         push(0);
-        System.out.println("top: "+top());
-        System.out.println("min: "+min());
+
     }
 
 

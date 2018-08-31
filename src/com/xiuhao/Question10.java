@@ -6,19 +6,19 @@ package com.xiuhao;
 public class Question10 {
 
     public static void main(String[] args) {
-        System.out.println("Fibonacci 10:"+fibonacci(10));
+        System.out.println("Fibonacci 50:"+fibonacci(60));
         System.out.println("frog 10:"+frog(10));
         System.out.println("angry frog 10:"+angryFrog(10));
     }
 
-    public static int fibonacci(int n){
-        int[] result = {0,1};
+    public static long fibonacci(int n){
+        long[] result = {0,1};
         if(n<2){
             return result[n];
         }
-        int fibResult = 0;
-        int fibOne = 0;
-        int fibTwo = 1;
+        long fibResult = 0;
+        long fibOne = 0;
+        long fibTwo = 1;
         for(int i=2;i<=n;i++){
             fibResult = fibOne+fibTwo;
             fibOne = fibTwo;
