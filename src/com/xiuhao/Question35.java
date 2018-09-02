@@ -5,6 +5,7 @@ package com.xiuhao;
  */
 public class Question35 {
     public static RandomListNode clone(RandomListNode pHead){
+
         return null;
     }
 }

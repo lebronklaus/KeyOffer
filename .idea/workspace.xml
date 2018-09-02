@@ -5,19 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a218af07-2fb4-4806-a0a6-b0f7dcaced80" name="Default" comment="add Question55">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/xiuhao/Question33.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/xiuhao/Question34.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/xiuhao/Question35.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/xiuhao/Question55.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KeyOffer/com/xiuhao/Question30.class" afterPath="$PROJECT_DIR$/out/production/KeyOffer/com/xiuhao/Question30.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KeyOffer/com/xiuhao/Question31.class" afterPath="$PROJECT_DIR$/out/production/KeyOffer/com/xiuhao/Question31.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KeyOffer/com/xiuhao/Question32.class" afterPath="$PROJECT_DIR$/out/production/KeyOffer/com/xiuhao/Question32.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/xiuhao/Question36.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/xiuhao/Question37.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/xiuhao/Question38.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/xiuhao/Question39.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/xiuhao/Question40.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KeyOffer/com/xiuhao/Question35.class" afterPath="$PROJECT_DIR$/out/production/KeyOffer/com/xiuhao/Question35.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KeyOffer/com/xiuhao/RandomListNode.class" afterPath="$PROJECT_DIR$/out/production/KeyOffer/com/xiuhao/RandomListNode.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/xiuhao/Question10.java" afterPath="$PROJECT_DIR$/src/com/xiuhao/Question10.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/xiuhao/Question30.java" afterPath="$PROJECT_DIR$/src/com/xiuhao/Question30.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/xiuhao/Question32.java" afterPath="$PROJECT_DIR$/src/com/xiuhao/Question32.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/xiuhao/Question35.java" afterPath="$PROJECT_DIR$/src/com/xiuhao/Question35.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,33 +26,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Question32.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/xiuhao/Question32.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="466">
-              <caret line="115" column="17" lean-forward="true" selection-start-line="115" selection-start-column="17" selection-end-line="115" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Question33.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/xiuhao/Question33.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Question34.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/xiuhao/Question34.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="35" column="24" lean-forward="true" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+            <state relative-caret-position="286">
+              <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="17" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -65,23 +39,78 @@
       <file leaf-file-name="Question35.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/xiuhao/Question35.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-              <folding>
-                <element signature="e#126#127#0" expanded="true" />
-                <element signature="e#153#154#0" expanded="true" />
-                <element signature="e#292#293#0" expanded="true" />
-                <element signature="e#326#327#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="286">
+              <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Question10.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Question36.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xiuhao/Question36.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="902">
+              <caret line="41" column="50" lean-forward="false" selection-start-line="41" selection-start-column="50" selection-end-line="41" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Question37.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xiuhao/Question37.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1144">
+              <caret line="52" column="42" lean-forward="false" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Question38.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xiuhao/Question38.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="616">
+              <caret line="29" column="26" lean-forward="false" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Question39.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xiuhao/Question39.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1452">
+              <caret line="66" column="4" lean-forward="true" selection-start-line="66" selection-start-column="4" selection-end-line="86" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Question40.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/xiuhao/Question40.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="104" column="0" lean-forward="true" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Question24.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xiuhao/Question24.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1254">
+              <caret line="57" column="31" lean-forward="false" selection-start-line="57" selection-start-column="31" selection-end-line="57" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Question10.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/xiuhao/Question10.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+            <state relative-caret-position="484">
+              <caret line="22" column="38" lean-forward="false" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -91,47 +120,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/xiuhao/Question55.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="462">
-              <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Question28.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/xiuhao/Question28.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="41" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="14" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Question29.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/xiuhao/Question29.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="32" column="9" lean-forward="false" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Question30.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/xiuhao/Question30.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Question31.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/xiuhao/Question31.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+              <caret line="21" column="23" lean-forward="false" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -185,8 +174,13 @@
         <option value="$PROJECT_DIR$/src/com/xiuhao/Question32.java" />
         <option value="$PROJECT_DIR$/src/com/xiuhao/Question33.java" />
         <option value="$PROJECT_DIR$/src/com/xiuhao/Question34.java" />
-        <option value="$PROJECT_DIR$/src/com/xiuhao/Question35.java" />
         <option value="$PROJECT_DIR$/src/com/xiuhao/Question10.java" />
+        <option value="$PROJECT_DIR$/src/com/xiuhao/Question36.java" />
+        <option value="$PROJECT_DIR$/src/com/xiuhao/Question35.java" />
+        <option value="$PROJECT_DIR$/src/com/xiuhao/Question37.java" />
+        <option value="$PROJECT_DIR$/src/com/xiuhao/Question38.java" />
+        <option value="$PROJECT_DIR$/src/com/xiuhao/Question39.java" />
+        <option value="$PROJECT_DIR$/src/com/xiuhao/Question40.java" />
       </list>
     </option>
   </component>
@@ -205,7 +199,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="1672" />
     <option name="y" value="-8" />
     <option name="width" value="1696" />
     <option name="height" value="1026" />
@@ -226,8 +220,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -258,31 +252,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="KeyOffer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="KeyOffer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xiuhao" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Question35.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -305,15 +277,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Question10">
-    <configuration default="false" name="Question32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Question40">
+    <configuration default="false" name="Question36" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.xiuhao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.xiuhao.Question32" />
+      <option name="MAIN_CLASS_NAME" value="com.xiuhao.Question36" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -326,14 +298,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Question55" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Question37" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.xiuhao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.xiuhao.Question55" />
+      <option name="MAIN_CLASS_NAME" value="com.xiuhao.Question37" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -346,14 +318,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Question33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Question38" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.xiuhao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.xiuhao.Question33" />
+      <option name="MAIN_CLASS_NAME" value="com.xiuhao.Question38" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -366,14 +338,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Question34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Question39" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.xiuhao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.xiuhao.Question34" />
+      <option name="MAIN_CLASS_NAME" value="com.xiuhao.Question39" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -386,14 +358,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Question10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Question40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.xiuhao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.xiuhao.Question10" />
+      <option name="MAIN_CLASS_NAME" value="com.xiuhao.Question40" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -794,19 +766,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Question32" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Question55" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Question33" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Question34" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Question10" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Question36" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Question37" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Question38" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Question39" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Question40" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Question10" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Question34" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Question33" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Question32" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Question55" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Question40" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Question39" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Question38" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Question37" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Question36" />
       </list>
     </recent_temporary>
   </component>
@@ -831,12 +803,13 @@
       <workItem from="1534851276780" duration="1571000" />
       <workItem from="1534923925761" duration="4659000" />
       <workItem from="1535188237830" duration="47816000" />
-      <workItem from="1535527564029" duration="34606000" />
+      <workItem from="1535527564029" duration="52626000" />
+      <workItem from="1535851012770" duration="5677000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="145693000" />
+    <option name="totallyTimeSpent" value="169390000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -848,8 +821,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="7" />
-    <editor active="true" />
+    <frame x="1672" y="-8" width="1696" height="1026" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295964" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -860,26 +832,26 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295964" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23766816" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295964" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295964" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1888753" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1913203" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39910313" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -930,7 +902,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="66" />
+      <option name="time" value="78" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -939,44 +911,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/xiuhao/Question8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xiuhao/Question3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xiuhao/Question10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="20" column="38" lean-forward="false" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xiuhao/Question5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xiuhao/Question4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/xiuhao/Question9.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="704">
@@ -1056,7 +990,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1096,7 +1029,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-105">
           <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1104,7 +1036,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1120,7 +1051,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="50" column="32" lean-forward="false" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1128,7 +1058,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1136,7 +1065,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
           <caret line="25" column="5" lean-forward="false" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1144,7 +1072,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="19" column="30" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1152,7 +1079,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1160,7 +1086,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="49" column="9" lean-forward="true" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1168,15 +1093,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xiuhao/Question24.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="533">
-          <caret line="26" column="9" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="26" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1184,7 +1100,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1562">
           <caret line="71" column="8" lean-forward="false" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1200,10 +1115,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-          <folding>
-            <element signature="e#181#182#0" expanded="false" />
-            <element signature="e#211#212#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1211,7 +1122,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="14" column="41" lean-forward="false" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1219,7 +1129,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1227,7 +1136,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="16" column="29" lean-forward="false" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1235,7 +1143,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="792">
           <caret line="38" column="1" lean-forward="false" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1243,7 +1150,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="880">
           <caret line="40" column="25" lean-forward="false" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1251,7 +1157,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="217">
           <caret line="101" column="0" lean-forward="false" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1259,7 +1164,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1267,7 +1171,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
           <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1291,7 +1194,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="14" column="41" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="14" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1300,7 +1202,7 @@
         <state relative-caret-position="466">
           <caret line="115" column="17" lean-forward="true" selection-start-line="115" selection-start-column="17" selection-end-line="115" selection-end-column="17" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1309,43 +1211,85 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/xiuhao/Question55.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
-          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+          <caret line="21" column="23" lean-forward="false" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiuhao/Question10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="38" lean-forward="false" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/xiuhao/Question34.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="35" column="24" lean-forward="true" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+        <state relative-caret-position="286">
+          <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="17" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiuhao/Question36.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="41" column="50" lean-forward="false" selection-start-line="41" selection-start-column="50" selection-end-line="41" selection-end-column="50" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/xiuhao/Question35.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-          <folding>
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#153#154#0" expanded="true" />
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="286">
+          <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xiuhao/Question10.java">
+    <entry file="file://$PROJECT_DIR$/src/com/xiuhao/Question37.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        <state relative-caret-position="1144">
+          <caret line="52" column="42" lean-forward="false" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiuhao/Question24.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="57" column="31" lean-forward="false" selection-start-line="57" selection-start-column="31" selection-end-line="57" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiuhao/Question38.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="29" column="26" lean-forward="false" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiuhao/Question39.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1452">
+          <caret line="66" column="4" lean-forward="true" selection-start-line="66" selection-start-column="4" selection-end-line="86" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiuhao/Question40.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="104" column="0" lean-forward="true" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
           <folding />
         </state>
       </provider>
